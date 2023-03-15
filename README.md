@@ -8,4 +8,5 @@ El programa utiliza pandas para leer el csv y también para hacer los grupos men
 
 Ejemplo de salida:
 
-https://github.com/PeterArgueta/Gasbot/raw/master/graph.png
+
+https://raw.githubusercontent.com/PeterArgueta/Gasbot/master/graph.png
