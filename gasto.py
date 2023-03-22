@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 """Cargar el archivo CSV"""
-df = pd.read_csv('gasolina.csv')
+df = pd.read_csv('input/gasolina.csv')
 
 """Seleccionar las columnas de fecha y kilómetros"""
 
