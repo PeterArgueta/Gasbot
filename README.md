@@ -1,10 +1,42 @@
-# Consumo de gasolina
+# Gasbot
 
-Este programa ayuda a ver el consumo de gasolina de tu auto (MPG) y también cuanto es el gasto mensual.
+**Gasbot** es una herramienta en Python diseñada para analizar el consumo de gasolina de vehículos. Permite calcular métricas como el rendimiento en millas por galón (MPG), el gasto mensual y visualizar estos datos a través de gráficos interactivos.
 
-Se debe de modificiar el csv con los datos de cada usuario. 
+---
 
-El programa utiliza la biblioteca pandas para leer el csv y también para hacer los grupos mensuales, las gráficas se realizan con matplotlib.
+## Características
+
+- **Cálculo de métricas de consumo:**
+  - Consumo total mensual
+  - Rendimiento promedio (MPG)
+- **Visualización gráfica:**
+  - Gráficas interactivas del consumo mensual y tendencias.
+- **Manejo de datos:**
+  - Importación de datos desde archivos CSV.
+
+---
+
+## Requisitos del Sistema
+
+- Python 3.7 o superior
+- Bibliotecas necesarias (instalar con `pip install -r requirements.txt`):
+  - `pandas`
+  - `matplotlib`
+
+---
+
+## Instalación
+
+1. Clona este repositorio:
+
+   ```bash
+   git clone https://github.com/PeterArgueta/Gasbot.git
+   cd Gasbot
+
+
+
+
+
 
 ## Ejemplo de salida:
 
