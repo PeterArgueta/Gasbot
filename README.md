@@ -19,7 +19,7 @@
 ## Requisitos del Sistema
 
 - Python 3.7 o superior
-- Bibliotecas necesarias (instalar con `pip install -r requirements.txt`):
+- Bibliotecas necesarias:
   - `pandas`
   - `matplotlib`
 
